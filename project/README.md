@@ -78,19 +78,15 @@ There's two things we would like to see being done when using the Trello board. 
 
 Please click on the link that corresponds to your group number. If you haven't already got a Trello account, you will be prompted to make one. Please follow the process of signing up for an account and then proceed to joining your groups' Trello board.
 
-Group 1: [https://trello.com/invite/b/g2N5mbA9/c74efd42406c0b0db12ee8f459eee7a1/group-1](https://trello.com/invite/b/g2N5mbA9/c74efd42406c0b0db12ee8f459eee7a1/group-1)
+Group 1: [https://trello.com/invite/b/LH5q0oiu/ATTI79035d5315aee99ab18114a41d6c738119AC784B/group-1](https://trello.com/invite/b/LH5q0oiu/ATTI79035d5315aee99ab18114a41d6c738119AC784B/group-1)
 
-Group 2: [https://trello.com/invite/b/2ST3Dqqs/fa619c7673f32beab847a6bd74c144b5/group-2](https://trello.com/invite/b/2ST3Dqqs/fa619c7673f32beab847a6bd74c144b5/group-2)
+Group 2: [https://trello.com/invite/b/FU8Va1vP/ATTIdf22e381bd76ff95034dc733c79767c46B77EB9F/group-2](https://trello.com/invite/b/FU8Va1vP/ATTIdf22e381bd76ff95034dc733c79767c46B77EB9F/group-2)
 
-Group 3: [https://trello.com/invite/b/Fa5PDlNj/688e3a694402548c713eac26ac2b2006/group-3](https://trello.com/invite/b/Fa5PDlNj/688e3a694402548c713eac26ac2b2006/group-3)
+Group 3: [https://trello.com/invite/b/kz1gM7iZ/ATTIe5baaa07a41ec93a0db2f9d7ffb42df464574321/group-3](https://trello.com/invite/b/kz1gM7iZ/ATTIe5baaa07a41ec93a0db2f9d7ffb42df464574321/group-3)
 
-Group 4: [https://trello.com/invite/b/qA7uQsOl/e7b8637c0d6444184ff882b62e64ba8e/group-4](https://trello.com/invite/b/qA7uQsOl/e7b8637c0d6444184ff882b62e64ba8e/group-4)
+Group 4: [https://trello.com/invite/b/nFjsy4wZ/ATTI636e1e1bcce87aeb47f03bd4daf88c386F16C214/group-4](https://trello.com/invite/b/nFjsy4wZ/ATTI636e1e1bcce87aeb47f03bd4daf88c386F16C214/group-4)
 
-Group 5: [https://trello.com/invite/b/RRX1VUv0/ea2214ab1348e47d7ff3edb95060bd22/group-5](https://trello.com/invite/b/RRX1VUv0/ea2214ab1348e47d7ff3edb95060bd22/group-5)
 
-Group 6: [https://trello.com/invite/b/JwLFFHBK/f0ef6abd09a545f2ca7c7fd7171a2ae4/group-6](https://trello.com/invite/b/JwLFFHBK/f0ef6abd09a545f2ca7c7fd7171a2ae4/group-6)
-
-Group 7: [https://trello.com/invite/b/orkCNeRt/e648460610a34174380f38bdd77e5e82/group-7](https://trello.com/invite/b/orkCNeRt/e648460610a34174380f38bdd77e5e82/group-7)
 
 
 
